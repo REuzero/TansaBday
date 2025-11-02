@@ -155,7 +155,7 @@ body {
   position: absolute;
   /* transform: scale(0.1); */
   top: -55%;
-  width: 80px;
+  width: 60px;
 }
 
 .baloons img {
@@ -346,9 +346,9 @@ body {
   }
 
   .six .hat {
-    top: -155px;
+    top: -175px;
     left: 165px;
-    width: 50px;
+    width: 40px;
   }
 
   .wish-hbd {
